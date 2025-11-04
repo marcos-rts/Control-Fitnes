@@ -12,13 +12,13 @@
 
 ## 💪 Exercícios
 
-| Ordem | Exercício                                                                          | Séries | Repetições | Carga Inicial | Descanso |
-| ----- | ---------------------------------------------------------------------------------- | ------ | ---------- | ------------- | -------- |
-| 1     | [[peito#Supino (Barra)\|Supino Reto]]                                              | 4      | 12         | kg            | 1m       |
-| 2     | [[peito#Supino Inclinado (Halter)\|Supino Inclinado (Halter)]]                     | 4      | 12         | kg            | 1m       |
-| 3     | [[peito#Crucifixo na Polia (Máquina) -> Cross Over na Polia Alta\|Crucifixo alto]] | 4      | 12         | kg            | 1m       |
-| 4     | [[peito#Crucifixo no Voador (Máquina) -> Peck Deck\|Fly]]                          | 4      | 12         | kg            | 1m       |
-| 5     | [[abdomen#Prancha Abdominal\|Prancha]]                                             | 1      | Falha      | 0             |          |
+| Ordem | Exercício                                                                   | Séries | Repetições | Carga Inicial | Descanso |
+| ----- | --------------------------------------------------------------------------- | ------ | ---------- | ------------- | -------- |
+| 1     | [[Supino (Barra)]]                                                          | 4      | 12         | kg            | 1m       |
+| 2     | [[Supino Inclinado (Halter)]]                                               | 4      | 12         | kg            | 1m       |
+| 3     | [[Crucifixo na Polia (Máquina) - Cross Over na Polia Alta\|Crucifixo alto]] | 4      | 12         | kg            | 1m       |
+| 4     | [[Crucifixo no Voador (Máquina) - Peck Deck\|Fly]]                          | 4      | 12         | kg            | 1m       |
+| 5     | [[Prancha\|Prancha]]                                                        | 1      | Falha      | 0             |          |
 
 ---
 
