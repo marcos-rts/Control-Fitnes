@@ -6,6 +6,7 @@ Aqui você encontra seus treinos diários, semanais, suplementação e evoluçã
 ---
 
 ## 📅 Acessos Rápidos
+- [Ficha de treino](Control-Fitnes/ficha/)
 - [Treinos Diários](Control-Fitnes/diários/)
 - [Semanas de Treino](Control-Fitnes/semanais/)
 - [Grupos Musculares](Control-Fitnes/grupos/)

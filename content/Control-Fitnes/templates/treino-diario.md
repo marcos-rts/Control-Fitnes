@@ -1,6 +1,6 @@
-# 🗓️ Treino {{DATA}}
+# 🗓️ Treino {{date}}
 
-**Data:** %%2025-11-04%% 
+**Data:** {{date}}
 **Tipo:** %%Treino A%%
 **Grupos Musculares:** %%Peito e Tríceps%%  
 **Início:** 
@@ -20,15 +20,17 @@
 ---
 
 ## ⚡ Suplementação
+%%
 - Pré-treino: 30 min antes (06:30)
 - Whey + Creatina: pós-treino (08:30)
-
+%%
 ---
 
 ## 🍽️ Alimentação
+%%
 - Café da manhã reforçado
 - Pós-treino com banana e aveia
-
+%%
 ---
 
 ## 💬 Notas
