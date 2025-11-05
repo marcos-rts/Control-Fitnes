@@ -12,13 +12,54 @@
 
 ## 💪 Exercícios
 
-| Ordem | Exercício                                                                   | Séries | Repetições | Carga Inicial | Descanso |
-| ----- | --------------------------------------------------------------------------- | ------ | ---------- | ------------- | -------- |
-| 1     | [[Supino (Barra)]]                                                          | 4      | 12         | kg            | 1m       |
-| 2     | [[Supino Inclinado (Halter)]]                                               | 4      | 12         | kg            | 1m       |
-| 3     | [[Crucifixo na Polia (Máquina) - Cross Over na Polia Alta\|Crucifixo alto]] | 4      | 12         | kg            | 1m       |
-| 4     | [[Crucifixo no Voador (Máquina) - Peck Deck\|Fly]]                          | 4      | 12         | kg            | 1m       |
-| 5     | [[Prancha\|Prancha]]                                                        | 1      | Falha      | 0             |          |
+- [[#Supino (Barra)]]
+- [[#Supino Inclinado (Halter)]]
+- [[#Crucifixo no Voador (Máquina) - Peck Deck Fly|Fly]]
+- [[Treino Peito#Crucifixo na Polia (Máquina) - Cross Over na Polia Alta Crucifixo alto]]
+- [[#Prancha Prancha]]
+
+### [[Supino (Barra)]]
+
+| Serie | Tipo Serie | Repetições | Carga |
+| ----- | ---------- | ---------- | ----- |
+| 1     | Normal     | 12         | 20 kg |
+| 2     | Normal     | 12         | 20 kg |
+| 3     | Normal     | 12         | 20 kg |
+| 4     | Falha      |            | 20 kg |
+
+### [[Supino Inclinado (Halter)]]
+
+| Serie | Tipo Serie | Repetições | Carga |
+| ----- | ---------- | ---------- | ----- |
+| 1     | Normal     | 12         | 18 kg |
+| 2     | Normal     | 12         | 18 kg |
+| 3     | Normal     | 12         | 18 kg |
+| 4     | Falha      |            | 18 kg |
+
+### [[Crucifixo na Polia (Máquina) - Cross Over na Polia Alta|Crucifixo alto]]
+
+| Serie | Tipo Serie | Repetições | Carga |
+| ----- | ---------- | ---------- | ----- |
+| 1     | Normal     | 12         | 9 kg  |
+| 2     | Normal     | 12         | 9 kg  |
+| 3     | Normal     | 12         | 9 kg  |
+| 4     | Falha      |            | 9 kg  |
+
+### [[Crucifixo no Voador (Máquina) - Peck Deck|Fly]]
+
+| Serie | Tipo Serie | Repetições | Carga |
+| ----- | ---------- | ---------- | ----- |
+| 1     | Normal     | 12         | 50 kg |
+| 2     | Normal     | 12         | 50 kg |
+| 3     | Normal     | 12         | 50 kg |
+| 4     | Falha      |            | 50 kg |
+
+### [[Prancha|Prancha]]
+
+| Serie | Tipo Serie | Tempo | Carga |
+| ----- | ---------- | ----- | ----- |
+| 1     | Falha      |       | 0     |
+
 
 ---
 
